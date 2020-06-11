@@ -1,0 +1,15 @@
+{
+  "name": "equiden-therapie.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/equiden-therapie/equiden-therapie.github.io.git",
+  "author": "Tobias Haerke <tosty@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hugo-cli": "^0.11.0"
+  },
+  "scripts": {
+    "start": "HUGO_VERSION=extended_0.72.0 hugo server -D"
+  }
+}
