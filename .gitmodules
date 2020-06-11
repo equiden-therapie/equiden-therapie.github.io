@@ -1,0 +1,3 @@
+[submodule "themes/radiation"]
+	path = themes/radiation
+	url = https://github.com/equiden-therapie/raditian-hugo
