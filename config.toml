@@ -13,6 +13,9 @@ theme = "radiation"
   [[params.plugins.css]]
   URL = "css/custom.css"
 
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.css"
+
   # JS Plugins
   [[params.plugins.js]]
   URL = "js/rad-animations.js"
@@ -59,7 +62,7 @@ theme = "radiation"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "client-and-work", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
