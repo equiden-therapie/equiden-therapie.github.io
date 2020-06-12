@@ -29,33 +29,33 @@ theme = "radiation"
 [menu]
 
   [[menu.header]]
-  name = "About"
+  name = "Equitron"
   URL = "#about"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "Mehr infos"
   URL = "#portfolio"
   weight = 3
 
   [[menu.header]]
-  name = "Contact"
+  name = "Buchen"
   URL = "#contact"
   weight = 4
 
 
   [[menu.footer]]
-  name = "About"
+  name = "Equitron"
   URL = "#about"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
+  name = "Mehr infos"
   URL = "#portfolio"
   weight = 3
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Buchen"
   URL = "#contact"
   weight = 4
 
@@ -71,7 +71,7 @@ theme = "radiation"
     text2 = "Härke"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Equiden Therapie - Härke. Alle rechte vorbehalten."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
