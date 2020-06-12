@@ -10,6 +10,7 @@
     "hugo-cli": "^0.11.0"
   },
   "scripts": {
-    "start": "HUGO_VERSION=extended_0.72.0 hugo server -D"
+    "start": "HUGO_VERSION=extended_0.72.0 hugo server -D",
+    "build": "HUGO_VERSION=extended_0.72.0 hugo -D"
   }
 }
