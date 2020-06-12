@@ -1,1 +1,38 @@
 /* You can customize theme styles here */
+
+.btn > i {
+	margin-right: 1em;
+}
+
+.navbar {
+	font-size: 1em;
+}
+
+.header .navbar-brand {
+	margin: 0 10px 0 30px;
+	font-size: 1em;
+}
+
+@media (min-width: 375px) {
+	.navbar {
+		font-size: 1.25em;
+	}
+
+	.header .navbar-brand {
+		margin: 0 10px 0 40px;
+	}
+}
+
+@media (min-width: 992px) {
+	.header .navbar-brand {
+		margin: 0 10px 0 0;
+	}
+}
+
+.navbar-toggler {
+	padding-left: 0;
+}
+
+.navbar-brand-icon img {
+	width: 3em;
+}
