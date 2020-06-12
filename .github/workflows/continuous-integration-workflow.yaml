@@ -21,7 +21,7 @@ jobs:
         run: yarn install
 
       - name: yarn build 🔧
-        run: yarn hugo -D
+        run: yarn build
 
       - name: upload artifacts ➡️☁️
         uses: actions/upload-artifact@v1
