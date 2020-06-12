@@ -55,6 +55,7 @@ showcase:
 # about
 about:
   enable: true
+  id: "equitron"  
   title: "Das Equitron Prinzip"
   content: '
     <p class="lead">
@@ -79,6 +80,7 @@ about:
 # Client & Work
 client_and_work:
   enable: true
+  id: "infos"  
 
   works:
     - title: "Wer bin ich?"
@@ -113,13 +115,9 @@ client_and_work:
 # contact
 contact:
   enable: true
+  id: "buchung"  
   title: "Buchung"
-  form:
-    method: "POST"
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+  contentLeft: '<p>Buchungen bald möglich. Termine verfügbar ab Anfang Juli 2020.</p>'
   phone:
     title: "Telefon"
     number: '<a href="tel:0049800200136">+49 (0800) 2000 136</a>'

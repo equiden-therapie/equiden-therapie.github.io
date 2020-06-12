@@ -30,33 +30,33 @@ theme = "radiation"
 
   [[menu.header]]
   name = "Equitron"
-  URL = "#about"
+  URL = "#equitron"
   weight = 2
 
   [[menu.header]]
   name = "Mehr infos"
-  URL = "#portfolio"
+  URL = "#infos"
   weight = 3
 
   [[menu.header]]
   name = "Buchen"
-  URL = "#contact"
+  URL = "#buchung"
   weight = 4
 
 
   [[menu.footer]]
   name = "Equitron"
-  URL = "#about"
+  URL = "#equitron"
   weight = 2
 
   [[menu.footer]]
   name = "Mehr infos"
-  URL = "#portfolio"
+  URL = "#infos"
   weight = 3
 
   [[menu.footer]]
   name = "Buchen"
-  URL = "#contact"
+  URL = "#buchung"
   weight = 4
 
 
@@ -69,10 +69,13 @@ theme = "radiation"
   [params.logo]
     text1 = "Equiden Therarpie"
     text2 = "Härke"
+    [params.logo.icon]
+      url = "img/icon.svg"
+      alt = "Equiden Therapie logo"
 
   [params.footer]
       copyright = "© Equiden Therapie - Härke. Alle rechte vorbehalten."
       [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        x = "img/icon-white.svg"
+        _2x = "img/icon-white.svg"
+        alt = "Equiden Therapie icon"
