@@ -29,5 +29,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages #the branch the action should deploy to.
+          BRANCH: master #the branch the action should deploy to.
           FOLDER: public #the folder the action should deploy.
