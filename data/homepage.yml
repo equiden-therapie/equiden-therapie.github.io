@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "far fa-calendar"
     btnText: "Termin buchen"
-    URL: "#booking"
+    URL: "#buchung"
 
   socialLinks:
     - icon: "linkedin"
