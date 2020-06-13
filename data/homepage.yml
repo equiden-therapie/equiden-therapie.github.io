@@ -95,7 +95,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Das Equitron Prinzip"
-        URL: "#"
+        URL: "#equitron"
       image:
         x: "img/slides/services-4.png"
         _2x: "img/slides/services-4@2x.png"
@@ -106,7 +106,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Buchen"
-        URL: "#"
+        URL: "#buchung"
       image:
         x: "img/slides/service-area-51.png"
         _2x: "img/slides/service-area-51@2x.png"
