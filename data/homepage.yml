@@ -14,7 +14,7 @@ showcase:
     _2x: "img/slides/cover-1-desktop@2x.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/cover-1-mobile.png"
+    x: "img/slides/cover-1-mobile.png"
 
   button:
     icon: "far fa-calendar"
