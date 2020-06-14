@@ -28,17 +28,17 @@ showcase:
     #- icon: "github"
     #URL: "https://github.com/radity"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
+    #- icon: "twitter"
+    #  URL: "#"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+    #- icon: "youtube"
+    #  URL: "#"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+    #- icon: "instagram"
+    #  URL: "#"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+    #- icon: "facebook"
+    #  URL: "#"
 
 # about
 about:
