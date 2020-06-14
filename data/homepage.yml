@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Equitron Behandlung"
   subtitle: "Am Niederrhein"
-  description: "Equitron Behandlung {placeholder-filler behandlungs-pitch (ohne schmerzen!), langzeit, faire preise, anfahrt}. Fair. Flexibel."
+  description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Therapie, auch langfristig, zu fairen preisen."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/slides/cover-1-desktop.png"
@@ -47,15 +47,10 @@ about:
   title: "Das Equitron Prinzip"
   content: '
     <p class="lead">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-    labore et dolore magna aliqua. Tellus mauris a diam maecenas sed. Eleifend donec pretium 
-    vulputate sapien nec sagittis. 
+    "Equitron. das Hochfrequenztherapiegerät ist ein zukunftweisendes Therapiesystem, das kurze, jedoch starke Energieimpulse über eine Behandlungsschlaufe an den Körper abgibt. Bis zu 20 cm tief reicht das bioelektrische Wirkungsspektrum und wirkt so direkt in jeder einzelnen Körperzelle – dort, wo Regeneration entsteht. Der Heilungsprozess verkürzt sich deutlich und die Selbstheilung kann beginnen."
     </p>
     <p class="lead">
-     Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Massa sapien faucibus et 
-     molestie ac. Ornare aenean euismod elementum nisi. Tristique et egestas quis ipsum. Dui vivamus 
-     arcu felis bibendum ut tristique et. Non quam lacus suspendisse faucibus. Malesuada nunc vel risus 
-     commodo viverra maecenas accumsan.  
+     Verwendbar zur Schmerztherapie (u.a. Hufrollen-, Gelenkentzündungen, Iliosakralgelenk, Kissing-Spine-Syndrom), Stimulation der Muskulatur (z.B. Verspannungen Genick, Hals, Rücken), sowie regenerativen Therapien (u.a. Sehnen- und Bändererkrankungen, Spat und Arthrose).  
     </p>'
   button:
     icon: "fas fa-external-link-alt"
@@ -72,14 +67,14 @@ client_and_work:
 
   works:
     - title: "Wer bin ich?"
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      description: "Ich bin Birgit Härke und habe seit meiner Jugend Erfahrungen mit Pferden gesammelt. Aufgrund einer schweren Verletzung meines Pferdes vor ca. 3 Jahren habe ich mich intensiv mit dem Equitron und den Therapiemöglichkeiten beschäftigt. Mein Ziel ist es, ihr verlässlicher mobiler Therapiepartner zu sein."
       image:
         x: "img/slides/who-am-i-31.png"
         _2x: "img/slides/who-am-i-31@2x.png"
       is_even: true
 
     - title: "Was biete ich an?"
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      description: "Mobile Equitron Behandlungen gerne nach Therapieplanung des behandelnden Tierarztes. Bei Verletzungen ist eine Abklärung vom Tierarzt vor der Behandlung unbedingt erforderlich."
       button:
         icon: "icon-arrow-right"
         btnText: "Das Equitron Prinzip"
@@ -90,7 +85,7 @@ client_and_work:
       is_even: false
 
     - title: "Was kostet es?"
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      description: "Eine Behandlung dauert je nach Umfang bis zu 30 min. und kostet 50€. Bei Langzeittherapien wird ein reduzierter Behandlungspreis berechnet. Die Anfahrtspauschale für den Raum 46519 Alpen (+10km) beträgt 5€. Fahrtkosten über 10km und etwaige Rabatte werden ihnen während der Buchung exakt angezeigt."
       button:
         icon: "icon-arrow-right"
         btnText: "Buchen"
