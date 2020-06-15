@@ -1,6 +1,6 @@
 baseURL = "https://equiden-therapie.github.io/"
 languageCode = "de-de"
-theme = "radiation"
+theme = "raditian"
 
 # Plugins
 [params.plugins]
