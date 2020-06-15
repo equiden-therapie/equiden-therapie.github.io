@@ -55,7 +55,7 @@ about:
   button:
     icon: "fas fa-external-link-alt"
     btnText: "Mehr erfahren"
-    URL: "#equitron-website"
+    URL: "https://www.equitron-pro.com/"
   image:
     x: "img/slides/equitron-2.png"
     _2x: "img/slides/equitron-2@2x.png"
