@@ -11,6 +11,7 @@
   },
   "scripts": {
     "start": "HUGO_VERSION=extended_0.72.0 hugo server -D",
-    "build": "HUGO_VERSION=extended_0.72.0 hugo -D"
+    "build": "HUGO_VERSION=extended_0.72.0 hugo -D",
+    "go": "HUGO_VERSION=extended_0.72.0 hugo"
   }
 }
