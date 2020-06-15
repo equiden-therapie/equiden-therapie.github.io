@@ -64,8 +64,6 @@ theme = "radiation"
 
   sections = ["showcase", "about", "client-and-work", "contact"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
   [params.logo]
     text1 = "Equiden Therarpie"
     text2 = "Härke"
