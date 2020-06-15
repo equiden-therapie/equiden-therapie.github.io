@@ -9,11 +9,11 @@ showcase:
   subtitle: "Am Niederrhein"
   description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Therapie, auch langfristig, zu fairen preisen."
   image:
-    alt: "Showcase keyboard and mouse image"
+    alt: "Einleitung - zwei Pferde Foto"
     x: "img/slides/cover-1-desktop.png"
     _2x: "img/slides/cover-1-desktop@2x.png"
   imageMobile:
-    alt: "Showcase keyboard and mouse image"
+    alt: "Einleitung - zwei Pferde Foto"
     x: "img/slides/cover-1-mobile.png"
 
   button:
