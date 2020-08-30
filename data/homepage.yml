@@ -80,8 +80,8 @@ client_and_work:
         btnText: "Das Equitron Prinzip"
         URL: "#equitron"
       image:
-        x: "img/slides/services-4.png"
-        _2x: "img/slides/services-4@2x.png"
+        x: "img/slides/services-42.png"
+        _2x: "img/slides/services-42@2x.png"
       is_even: false
 
     - title: "Was kostet es?"
