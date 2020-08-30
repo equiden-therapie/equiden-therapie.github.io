@@ -69,16 +69,16 @@ theme = "raditian"
   sections = ["showcase", "about", "client-and-work", "contact"]
 
   [params.logo]
-    text1 = "Equiden Therarpie"
+    text1 = "EquiHealth"
     text2 = "Härke"
     [params.logo.icon]
       url = "img/icon.svg"
-      alt = "Equiden Therapie logo"
+      alt = "EquiHealth logo"
 
   [params.footer]
-      copyright = "© Equiden Therapie - Härke. Alle rechte vorbehalten."
+      copyright = "© EquiHealth - Härke. Alle rechte vorbehalten."
       [params.footer.radity_logo]
         x = "img/icon-white.svg"
         _2x = "img/icon-white.svg"
-        alt = "Equiden Therapie icon"
+        alt = "EquiHealth icon"
         url = "#"

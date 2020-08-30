@@ -1,1 +1,1 @@
-# equiden-therapie
+# equi-health

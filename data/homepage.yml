@@ -1,7 +1,7 @@
 # homepage
 homepage:
   head:
-    title: "Home | Equiden Therarpie"
+    title: "Home | EquiHealth"
 # showcase
 showcase:
   enable: true
@@ -106,10 +106,10 @@ contact:
     number: '<a href="tel:0049800200136">+49 (0800) 2000 136</a>'
   email:
     title: "Email"
-    email: '<a href="mailto:birgit@equiden-therapie.de">birgit@equiden-therapie.de</a>'
+    email: '<a href="mailto:birgit@equihealth.de">birgit@equihealth.de</a>'
   address:
     title: "Anschrifft"
-    address: "Equiden Therapie - Birgit Härke<br>Mittelweg 21, 46519 Alpen"
+    address: "EquiHealth - Birgit Härke<br>Mittelweg 21, 46519 Alpen"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
