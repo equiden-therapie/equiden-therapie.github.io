@@ -100,10 +100,10 @@ contact:
   enable: true
   id: "buchung"  
   title: "Buchung"
-  contentLeft: '<p>Buchungen bald möglich. Termine verfügbar ab Anfang Juli 2020.</p>'
+  contentLeft: '<p>Termine verfügbar an <strong>jedem Wochende</strong>. Vereinbaren Sie jetzt ihren Termin telefonisch oder per email.</p>'
   phone:
     title: "Telefon"
-    number: '<a href="tel:0049800200136">+49 (0800) 2000 136</a>'
+    number: '<a href="tel:004915792388471">+49 (01579) 23 88 47 1</a>'
   email:
     title: "Email"
     email: '<a href="mailto:birgit@equihealth.de">birgit@equihealth.de</a>'
