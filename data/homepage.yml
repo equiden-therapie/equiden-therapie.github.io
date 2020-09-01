@@ -22,6 +22,10 @@ showcase:
     URL: "#buchung"
 
   socialLinks:
+    - icon: "fab fa-facebook-f"
+      URL: "https://www.facebook.com/equihealth"
+    - icon: "fab fa-facebook-messenger"
+      URL: "https://m.me/equihealth"
     #- icon: "linkedin"
     #  URL: "https://www.linkedin.com/company/radity/"
 
@@ -37,8 +41,6 @@ showcase:
     #- icon: "instagram"
     #  URL: "#"
 
-    #- icon: "facebook"
-    #  URL: "#"
 
 # about
 about:
