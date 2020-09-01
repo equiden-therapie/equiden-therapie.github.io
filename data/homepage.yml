@@ -5,9 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Equitron Behandlung"
+  title: "Equitron Anwendungen"
   subtitle: "Am Niederrhein"
-  description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Therapie, auch langfristig, zu fairen preisen."
+  description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Anwendungen, auch langfristig, zu fairen preisen."
   image:
     alt: "Einleitung - zwei Pferde Foto"
     x: "img/slides/cover-1-desktop.png"
@@ -67,14 +67,14 @@ client_and_work:
 
   works:
     - title: "Wer bin ich?"
-      description: "Ich bin Birgit Härke und habe seit meiner Jugend Erfahrungen mit Pferden gesammelt. Aufgrund einer schweren Verletzung meines Pferdes vor ca. 3 Jahren habe ich mich intensiv mit dem Equitron und den Therapiemöglichkeiten beschäftigt. Mein Ziel ist es, ihr verlässlicher mobiler Therapiepartner zu sein."
+      description: "Ich bin Birgit Härke und habe seit meiner Jugend Erfahrungen mit Pferden gesammelt. Aufgrund einer schweren Verletzung meines Pferdes vor ca. 3 Jahren habe ich mich intensiv mit dem Equitron und den Therapiemöglichkeiten beschäftigt. Mein Ziel ist es, ihr verlässlicher mobiler Equitronpartner zu sein."
       image:
         x: "img/slides/who-am-i-31.png"
         _2x: "img/slides/who-am-i-31@2x.png"
       is_even: true
 
     - title: "Was biete ich an?"
-      description: "Mobile Equitron Behandlungen gerne nach Therapieplanung des behandelnden Tierarztes. Bei Verletzungen ist eine Abklärung vom Tierarzt vor der Behandlung unbedingt erforderlich."
+      description: "Mobile Equitron Anwendungen, gerne nach Therapieplanung des behandelnden Tierarztes. Bei Verletzungen ist eine Abklärung vom Tierarzt vor der Anwendungen unbedingt erforderlich."
       button:
         icon: "icon-arrow-right"
         btnText: "Das Equitron Prinzip"
