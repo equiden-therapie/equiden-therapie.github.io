@@ -87,7 +87,7 @@ client_and_work:
       is_even: false
 
     - title: "Was kostet es?"
-      description: "Eine Behandlung dauert je nach Umfang bis zu 30 min. und kostet 2€/min. Ein kompletter Scan kostet 50€. Bei Langzeittherapien wird ein reduzierter Behandlungspreis berechnet. Die Anfahrtspauschale für den Raum 46519 Alpen (+30km) beträgt 5€. Fahrtkosten über 30km und etwaige Rabatte nach persönlicher Absprache."
+      description: "Eine Behandlung dauert je nach Umfang bis zu 30 min. und kostet 2€/min. Ein kompletter Scan beider Seiten (Diagnostik), kostet 50€ inkl. 10min. Behandlung. Bei Langzeittherapien wird ein reduzierter Behandlungspreis berechnet. Die Anfahrtspauschale für den Raum 46519 Alpen (+5km) ist kostenlos, bei +30km werden 5€ berechnet. Fahrtkosten über 30km und etwaige Rabatte nach persönlicher Absprache."
       button:
         icon: "icon-arrow-right"
         btnText: "Buchen"
