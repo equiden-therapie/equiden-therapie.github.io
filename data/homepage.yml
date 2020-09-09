@@ -76,7 +76,7 @@ client_and_work:
       is_even: true
 
     - title: "Was biete ich an?"
-      description: "Mobile Equitron Anwendungen, gerne nach Therapieplanung des behandelnden Tierarztes. Bei Verletzungen ist eine Abklärung vom Tierarzt vor der Anwendungen unbedingt erforderlich."
+      description: "Mobile Equitron Anwendungen.<br><strong>Verletzungen:</strong> nach Therapieplan des behandelnden Tierarztes (unbedingt erforderlich).<br><strong>Diagnostik:</strong> kann verdeckte Schmerzprozesse erkennen, wie Verspannungen, Entzündungen und angewendet werden."
       button:
         icon: "icon-arrow-right"
         btnText: "Anwendungsmöglichkeiten"
