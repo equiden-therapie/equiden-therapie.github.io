@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Equitron Anwendungen"
   subtitle: "Am Niederrhein"
-  description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Anwendungen, auch langfristig, zu fairen preisen."
+  description: "Equitron, die ideale Therapieform für ihr Pferd, um auch nach schwer therapierbaren Verletzungen und Leiden rasch wieder in den Sport zurückkehren zu können. Wir sind ihr Partner für zuverlässige, mobile Anwendungen, auch langfristig, zu fairen Preisen."
   image:
     alt: "Einleitung - zwei Pferde Foto"
     x: "img/slides/cover-1-desktop.png"
@@ -79,8 +79,8 @@ client_and_work:
       description: "Mobile Equitron Anwendungen, gerne nach Therapieplanung des behandelnden Tierarztes. Bei Verletzungen ist eine Abklärung vom Tierarzt vor der Anwendungen unbedingt erforderlich."
       button:
         icon: "icon-arrow-right"
-        btnText: "Das Equitron Prinzip"
-        URL: "#equitron"
+        btnText: "Anwendungsmöglichkeiten"
+        URL: "res/EQ-Moeglichkeiten.pdf"
       image:
         x: "img/slides/services-42.png"
         _2x: "img/slides/services-42@2x.png"
