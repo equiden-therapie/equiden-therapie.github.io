@@ -76,7 +76,7 @@ client_and_work:
       is_even: true
 
     - title: "Was biete ich an?"
-      description: "Mobile Equitron Anwendungen.<br><strong>Verletzungen:</strong> nach Therapieplan des behandelnden Tierarztes (unbedingt erforderlich).<br><strong>Diagnostik:</strong> kann verdeckte Schmerzprozesse erkennen, wie Verspannungen, Entzündungen und angewendet werden."
+      description: "Mobile Equitron Anwendungen.<br><strong>Verletzungen:</strong> nach Therapieplan des behandelnden Tierarztes (unbedingt erforderlich), Wund-Schmerzbehandlungen.<br><strong>Diagnostik:</strong> kann verdeckte Schmerzprozesse (außer Extremitäten) wie Verspannungen, Entzündungen erkennen und dagegen angewendet werden."
       button:
         icon: "icon-arrow-right"
         btnText: "Anwendungsmöglichkeiten"
@@ -87,7 +87,8 @@ client_and_work:
       is_even: false
 
     - title: "Was kostet es?"
-      description: "Eine Behandlung dauert je nach Umfang bis zu 30 min. und kostet 2€/min. Ein kompletter Scan beider Seiten (Diagnostik), kostet 50€ inkl. 10min. Behandlung. Bei Langzeittherapien wird ein reduzierter Behandlungspreis berechnet. Die Anfahrtspauschale für den Raum 46519 Alpen (+5km) ist kostenlos, bei +30km werden 5€ berechnet. Fahrtkosten über 30km und etwaige Rabatte nach persönlicher Absprache."
+      description: "<ul><li>Anwendung: 2€/min</li><li>Scan (beider Seiten): 50€</li></ul>Der Diagnostik <strong>Scan</strong> beihnhaltet Beratung und Erstanwendung. Die <strong>Anfahrtspauschale</strong> für den Raum 46519 Alpen (+5km) ist kostenlos, bei +30km werden 5€ berechnet. Fahrtkosten über 30km und etwaige Rabatte nach persönlicher Absprache."
+      #description: "Eine Behandlung kostet 2€/min. Ein kompletter Scan beider Seiten (Diagnostik), kostet 50€ inkl. 10min. Behandlung. Bei Langzeittherapien wird ein reduzierter Behandlungspreis berechnet. Die Anfahrtspauschale für den Raum 46519 Alpen (+5km) ist kostenlos, bei +30km werden 5€ berechnet. Fahrtkosten über 30km und etwaige Rabatte nach persönlicher Absprache."
       button:
         icon: "icon-arrow-right"
         btnText: "Buchen"
@@ -102,7 +103,7 @@ contact:
   enable: true
   id: "buchung"  
   title: "Buchung"
-  contentLeft: '<p>Termine verfügbar an <strong>jedem Wochende</strong>. Vereinbaren Sie jetzt ihren Termin telefonisch oder per email.</p>'
+  contentLeft: 'Vereinbaren Sie jetzt ihren Termin telefonisch oder per email!</p>'
   phone:
     title: "Telefon"
     number: '<a href="tel:004915792388471">+49 (01579) 23 88 47 1</a>'
