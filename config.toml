@@ -43,6 +43,12 @@ theme = "raditian"
   URL = "#buchung"
   weight = 4
 
+  # [[menu.header]]
+  # name = "Beispiele"
+  # URL = "#beispiele"
+  # weight = 5
+
+  # footer
 
   [[menu.footer]]
   name = "Equitron"

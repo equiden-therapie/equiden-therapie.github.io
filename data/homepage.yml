@@ -69,10 +69,12 @@ client_and_work:
 
   works:
     - title: "Wer bin ich?"
-      description: "Ich bin Birgit Härke und habe seit meiner Jugend Erfahrungen mit Pferden gesammelt. Aufgrund einer schweren Verletzung meines Pferdes vor ca. 3 Jahren habe ich mich intensiv mit dem Equitron und den Therapiemöglichkeiten beschäftigt. Mein Ziel ist es, ihr verlässlicher mobiler Equitronpartner zu sein."
-      image:
-        x: "img/slides/who-am-i-31.png"
-        _2x: "img/slides/who-am-i-31@2x.png"
+      description: "Ich bin Birgit Härke und habe seit meiner Jugend Erfahrungen mit Pferden gesammelt. Aufgrund einer schweren Verletzung meines Pferdes vor ca. 3 Jahren habe ich mich intensiv mit dem Equitron und den Therapiemöglichkeiten beschäftigt. Durch regelmäßige Teilnahme an Equitron Akademien, bin ich ihr mobiler Equitronpartner."
+      images:
+        - x: "img/slides/who-am-i-31.png"
+          _2x: "img/slides/who-am-i-31@2x.png"
+        - x: "img/slides/who-am-i-33-cert.png"
+          _2x: "img/slides/who-am-i-33-cert@2x.png"
       is_even: true
 
     - title: "Was biete ich an?"
